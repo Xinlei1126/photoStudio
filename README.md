@@ -2,6 +2,8 @@
 
 A complete fictional photography studio website created for **Project 2 – Modern Business Website**.
 
+Visit link: https://xinlei1126.github.io/photoStudio/
+
 ## Business idea
 
 - **Business name:** Lumen & Frame
